@@ -39,3 +39,4 @@ A simple web app where you paste code → AI explains it in plain English.
 - Works on phone and computer
 
 Very simple project — but looks professional and useful!
+# entrata-ai-assessment
